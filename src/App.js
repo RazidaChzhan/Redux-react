@@ -14,7 +14,7 @@ class App extends React.Component {
     addTrack() {
         console.log('addTrack', this.trackInput.value);
         let newItem = {
-            "id":55555,
+            "id":Math.floor(Math.random() * 1000000) + 1,
             "title":this.trackInput.value,
             "is_top":0,
             "is_privileged":0,
