@@ -5,21 +5,9 @@ import { createStore } from 'redux';
 import { BrowserRouter as Router } from "react-router-dom"
 
 import App from './App';
-  
-const items = require('./data/brands.json')
+import reducer from './reducers';
 
-function playlist(state = items, action) {
-    console.log('action', action);
-    if (action.type === 'ADD_TRACK') {
-    return [
-      ...state, 
-      action.payload
-      ];
-    }
-    return state;
-}
-
-const store = createStore(playlist);
+const store = createStore(reducer);
 
 ReactDOM.render(
 <Provider store = {store}>
