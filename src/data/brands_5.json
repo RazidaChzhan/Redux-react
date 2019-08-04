@@ -1,0 +1,67 @@
+[
+    {
+        "id":170392,
+        "title":"Alaia",
+        "is_top":0,
+        "is_privileged":0,
+        "visible":1,
+        "slug":"alaia",
+        "sort":0,
+        "is_visible_in_catalog":1,
+        "is_enough_items_to_show":1,
+        "show_always":0,
+        "brand_logo_url":"https://st.tsum.com/btrx/upload/iblock/c37/c37d941e19cbba76f758ca25b86459e8.jpg"
+     },
+     {
+        "id":250692,
+        "title":"Aletta",
+        "is_top":0,
+        "is_privileged":0,
+        "visible":1,
+        "slug":"aletta",
+        "sort":0,
+        "is_visible_in_catalog":1,
+        "is_enough_items_to_show":1,
+        "show_always":0,
+        "brand_logo_url":"https://st.tsum.com/btrx/upload/iblock/dac/dac4a6615824a9f4d102492a34cc25ef.jpg"
+     },
+     {
+        "id":164355,
+        "title":"Alexander McQueen",
+        "is_top":1,
+        "is_privileged":0,
+        "visible":1,
+        "slug":"alexander_mcqueen",
+        "sort":0,
+        "is_visible_in_catalog":1,
+        "is_enough_items_to_show":1,
+        "show_always":0,
+        "brand_logo_url":"https://st.tsum.com/btrx/upload/iblock/40a/40a5bdc69856117c5f85f567caddb509.png"
+     },
+     {
+        "id":179587,
+        "title":"Armani Collezioni",
+        "is_top":0,
+        "is_privileged":0,
+        "visible":1,
+        "slug":"armani_collezioni",
+        "sort":0,
+        "is_visible_in_catalog":1,
+        "is_enough_items_to_show":1,
+        "show_always":0,
+        "brand_logo_url":"https://st.tsum.com/btrx/upload/iblock/14e/14e43b45f7ce66fb9a32ba16aa262a2f.png"
+     },
+     {
+        "id":1506401,
+        "title":"Armani Junior",
+        "is_top":0,
+        "is_privileged":0,
+        "visible":1,
+        "slug":"armani_junior-115939",
+        "sort":0,
+        "is_visible_in_catalog":1,
+        "is_enough_items_to_show":1,
+        "show_always":0,
+        "brand_logo_url":"https://st.tsum.com/btrx/upload/iblock/d26/d26613f23c40dd546020a9e9a5541197.jpg"
+     }
+]
